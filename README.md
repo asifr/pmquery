@@ -24,5 +24,5 @@ Delete all data folders, this preserves zipped archives but removes the individu
 
 > make clean
 
-Copyright (c) 2013— Asif Rahman
+Copyright (c) 2013— Asif Rahman  
 License: MIT (see LICENSE for details)
